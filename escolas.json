@@ -1,0 +1,87 @@
+[
+    {
+        "name": "ESC EST ENS FUN MARQUES D ALEGRETE",
+        "address": "R GEN SAMPAIO 1350, 1350 CENTRO. 97541-260 Alegrete - RS.",
+        "district": "Centro"
+    },
+    {
+        "name": "ESC EST ENS FUN SALGADO FILHO",
+        "address": "AV ASSIS BRASIL 1373, 1373 CIDADE ALTA. 97545-080 Alegrete - RS.",
+        "district": "Cidade Alta"
+    },
+    {
+        "name": "ESC EST ENS FUN FARROUPILHA",
+        "address": "R MARCIRIO RODRIGUES DE ALMEIDA 63, 63. VERA CRUZ. 97544-300 Alegrete - RS.",
+        "district": "Vera Cruz"
+    },
+    {
+        "name": "ESC EST ENS FUN FREITAS VALLE",
+        "address": "R JOAQUIM ANTONIO 309, 309 CENTRO. 97542-360 Alegrete - RS.",
+        "district": "Centro"
+    },
+    {
+        "name": "ESC EST ENS FUN GASPAR MARTINS",
+        "address": "R SANTIAGO 56, 56 IBIRAPUITA. 97546-490 Alegrete - RS.",
+        "district": "Ibirapuitã"
+    },
+    {
+        "name": "ESC EST ENS MED DR ROMARIO ARAUJO DE OLIVEIRA",
+        "address": "R ALONSO MEDEIROS 781, 781 JOAQUIM FONSECA MILA. 97544-020 Alegrete - RS.",
+        "district": "Joaquim Fonseca Milano"
+    },
+    {
+        "name": "ESC EST ENS FUN ECILDA ALVES PAIM",
+        "address": "R TUPI 36, 36 VILA PRADO. 97543-630 Alegrete - RS.",
+        "district": "Progresso"
+    },
+    {
+        "name": "ESC EST ENS MED NAS DEPENDENC ENS FUND WALDEMAR BORGES",
+        "address": "R ALCIDES SANTANA MAGALHAES 650 CASA, 650 CASA. FAVILA. 97547-020 Alegrete - RS.",
+        "district": "Favila"
+    },
+    {
+        "name": "ESC EST ENS MED JOSE BONIFACIO",
+        "address": "R JOAO PESSOA 105 PREDIO, 105 PREDIO. NOVO LAR. 97545-310 Alegrete - RS.",
+        "district": "Novo Lar"
+    },
+    {
+        "name": "ESC EST ED BAS DR LAURO DORNELLES",
+        "address": "AV AVENIDA TIARAJU 809 PREDIO, 809 PREDIO. IBIRAPUITA. 97546-550 Alegrete - RS.",
+        "district": "Ibirapuitã"
+    },
+    {
+        "name": "ESC EST ENS MED TANCREDO DE ALMEIDA NEVES",
+        "address": "R MAJOR JOAO CEZIMBRA JAQUES 306, 306 CIDADE ALTA. 97543-390 Alegrete - RS.",
+        "district": "Cidade Alta"
+    },
+    {
+        "name": "ESC EST ENS FUN SANTA INES",
+        "address": "ETR AREA RURAL SN, SN AREA RURAL DE ALEGRE. 97551-899 Alegrete - RS.",
+        "district": "Vila Nova"
+    },
+    {
+        "name": "INST EST EDUC OSWALDO ARANHA",
+        "address": "R GENERAL SAMPAIO 535, 535 CENTRO. 97541-261 Alegrete - RS.",
+        "district": "Centro"
+    },
+    {
+        "name": "ESC EST ENS FUN OSVALDO DORNELLES",
+        "address": "R CELESTINO PRUNES 17, 17 VILA NOVA. 97541-080 Alegrete - RS.",
+        "district": "Vila Nova"
+    },
+    {
+        "name": "COL ESTADUAL EMILIO ZUNEDA",
+        "address": "R RUA BARROS CASSAL 2255, 2255 VERA CRUZ. 97543-060 Alegrete - RS.",
+        "district": "Vera Cruz"
+    },
+    {
+        "name": "ESC EST ENS MED DEMETRIO RIBEIRO",
+        "address": "R GENERAL SAMPAIO 1559, 1559 CENTRO. 97541-261 Alegrete - RS.",
+        "district": "Centro"
+    },
+    {
+        "name": "ESC EST ENS FUN EDUARDO VARGAS",
+        "address": "R RUA MAURICIO CARDOSO 444, 444 CIDADE ALTA. 97545-000 Alegrete - RS.",
+        "district": "Cidade Alta"
+    }
+]

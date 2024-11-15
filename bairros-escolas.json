@@ -1,0 +1,697 @@
+[
+    {
+        "id": 0,
+        "name": "Santo Antônio",
+        "schools": []
+    },
+    {
+        "id": 1,
+        "name": "Centro",
+        "schools": [
+            {
+                "name": "ESC EST ENS FUN MARQUES D ALEGRETE",
+                "address": "R GEN SAMPAIO 1350, 1350 CENTRO. 97541-260 Alegrete - RS.",
+                "district": "Centro",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 30,
+                        "id": 1
+                    }
+                ]
+            },
+            {
+                "name": "ESC EST ENS FUN FREITAS VALLE",
+                "address": "R JOAQUIM ANTONIO 309, 309 CENTRO. 97542-360 Alegrete - RS.",
+                "district": "Centro",
+                "id": 1,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 20,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 1
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 2
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 3
+                    }
+                ]
+            },
+            {
+                "name": "INST EST EDUC OSWALDO ARANHA",
+                "address": "R GENERAL SAMPAIO 535, 535 CENTRO. 97541-261 Alegrete - RS.",
+                "district": "Centro",
+                "id": 2,
+                "rooms": [
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 15,
+                        "id": 1
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 15,
+                        "id": 2
+                    }
+                ]
+            },
+            {
+                "name": "ESC EST ENS MED DEMETRIO RIBEIRO",
+                "address": "R GENERAL SAMPAIO 1559, 1559 CENTRO. 97541-261 Alegrete - RS.",
+                "district": "Centro",
+                "id": 3,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 15,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 30,
+                        "id": 1
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 25,
+                        "id": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Macedo",
+        "schools": []
+    },
+    {
+        "id": 3,
+        "name": "Izabel",
+        "schools": []
+    },
+    {
+        "id": 4,
+        "name": "Restinga",
+        "schools": []
+    },
+    {
+        "id": 5,
+        "name": "Canudos",
+        "schools": []
+    },
+    {
+        "id": 6,
+        "name": "Rui Ramos",
+        "schools": []
+    },
+    {
+        "id": 7,
+        "name": "Vila Nova",
+        "schools": [
+            {
+                "name": "ESC EST ENS FUN SANTA INES",
+                "address": "ETR AREA RURAL SN, SN AREA RURAL DE ALEGRE. 97551-899 Alegrete - RS.",
+                "district": "Vila Nova",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 15,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 20,
+                        "id": 1
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 2
+                    }
+                ]
+            },
+            {
+                "name": "ESC EST ENS FUN OSVALDO DORNELLES",
+                "address": "R CELESTINO PRUNES 17, 17 VILA NOVA. 97541-080 Alegrete - RS.",
+                "district": "Vila Nova",
+                "id": 1,
+                "rooms": [
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 30,
+                        "id": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Área Militar",
+        "schools": []
+    },
+    {
+        "id": 9,
+        "name": "Boa Vista",
+        "schools": []
+    },
+    {
+        "id": 10,
+        "name": "Joaquim Fonseca Milano",
+        "schools": [
+            {
+                "name": "ESC EST ENS MED DR ROMARIO ARAUJO DE OLIVEIRA",
+                "address": "R ALONSO MEDEIROS 781, 781 JOAQUIM FONSECA MILA. 97544-020 Alegrete - RS.",
+                "district": "Joaquim Fonseca Milano",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 25,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 25,
+                        "id": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Vera Cruz",
+        "schools": [
+            {
+                "name": "ESC EST ENS FUN FARROUPILHA",
+                "address": "R MARCIRIO RODRIGUES DE ALMEIDA 63, 63. VERA CRUZ. 97544-300 Alegrete - RS.",
+                "district": "Vera Cruz",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 15,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 25,
+                        "id": 1
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 30,
+                        "id": 2
+                    }
+                ]
+            },
+            {
+                "name": "COL ESTADUAL EMILIO ZUNEDA",
+                "address": "R RUA BARROS CASSAL 2255, 2255 VERA CRUZ. 97543-060 Alegrete - RS.",
+                "district": "Vera Cruz",
+                "id": 1,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 30,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Sepé Tiarajú",
+        "schools": []
+    },
+    {
+        "id": 13,
+        "name": "Ibirapuitã",
+        "schools": [
+            {
+                "name": "ESC EST ENS FUN GASPAR MARTINS",
+                "address": "R SANTIAGO 56, 56 IBIRAPUITA. 97546-490 Alegrete - RS.",
+                "district": "Ibirapuitã",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 20,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 1
+                    }
+                ]
+            },
+            {
+                "name": "ESC EST ED BAS DR LAURO DORNELLES",
+                "address": "AV AVENIDA TIARAJU 809 PREDIO, 809 PREDIO. IBIRAPUITA. 97546-550 Alegrete - RS.",
+                "district": "Ibirapuitã",
+                "id": 1,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 30,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Oswaldo Aranha",
+        "schools": []
+    },
+    {
+        "id": 15,
+        "name": "Promorar",
+        "schools": []
+    },
+    {
+        "id": 16,
+        "name": "Honório Lemes",
+        "schools": []
+    },
+    {
+        "id": 17,
+        "name": "Airton Senna",
+        "schools": []
+    },
+    {
+        "id": 18,
+        "name": "Getúlio Vargas",
+        "schools": []
+    },
+    {
+        "id": 19,
+        "name": "Nova Brasília",
+        "schools": []
+    },
+    {
+        "id": 20,
+        "name": "Centenário",
+        "schools": []
+    },
+    {
+        "id": 21,
+        "name": "Tancredo Neves",
+        "schools": []
+    },
+    {
+        "id": 22,
+        "name": "Capão do Angico",
+        "schools": []
+    },
+    {
+        "id": 23,
+        "name": "Segabinazi",
+        "schools": []
+    },
+    {
+        "id": 24,
+        "name": "Santos Dumont",
+        "schools": []
+    },
+    {
+        "id": 25,
+        "name": "Dr. Romário",
+        "schools": []
+    },
+    {
+        "id": 26,
+        "name": "Palma",
+        "schools": []
+    },
+    {
+        "id": 27,
+        "name": "Favila",
+        "schools": [
+            {
+                "name": "ESC EST ENS MED NAS DEPENDENC ENS FUND WALDEMAR BORGES",
+                "address": "R ALCIDES SANTANA MAGALHAES 650 CASA, 650 CASA. FAVILA. 97547-020 Alegrete - RS.",
+                "district": "Favila",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 15,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 25,
+                        "id": 1
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 15,
+                        "id": 2
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 20,
+                        "id": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Saint Pastous",
+        "schools": []
+    },
+    {
+        "id": 29,
+        "name": "N.S. Conceição Aparecida",
+        "schools": []
+    },
+    {
+        "id": 30,
+        "name": "Ulisses Guimarães",
+        "schools": []
+    },
+    {
+        "id": 31,
+        "name": "Balneário Caverá",
+        "schools": []
+    },
+    {
+        "id": 32,
+        "name": "Projetado",
+        "schools": []
+    },
+    {
+        "id": 33,
+        "name": "Cidade Alta",
+        "schools": [
+            {
+                "name": "ESC EST ENS FUN SALGADO FILHO",
+                "address": "AV ASSIS BRASIL 1373, 1373 CIDADE ALTA. 97545-080 Alegrete - RS.",
+                "district": "Cidade Alta",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 15,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 30,
+                        "id": 1
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 20,
+                        "id": 2
+                    }
+                ]
+            },
+            {
+                "name": "ESC EST ENS MED TANCREDO DE ALMEIDA NEVES",
+                "address": "R MAJOR JOAO CEZIMBRA JAQUES 306, 306 CIDADE ALTA. 97543-390 Alegrete - RS.",
+                "district": "Cidade Alta",
+                "id": 1,
+                "rooms": [
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 30,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 1
+                    }
+                ]
+            },
+            {
+                "name": "ESC EST ENS FUN EDUARDO VARGAS",
+                "address": "R RUA MAURICIO CARDOSO 444, 444 CIDADE ALTA. 97545-000 Alegrete - RS.",
+                "district": "Cidade Alta",
+                "id": 2,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 30,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 20,
+                        "id": 1
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 20,
+                        "id": 2
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 30,
+                        "id": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Assunção",
+        "schools": []
+    },
+    {
+        "id": 35,
+        "name": "Medianeira",
+        "schools": []
+    },
+    {
+        "id": 36,
+        "name": "Praça da Lagoa",
+        "schools": []
+    },
+    {
+        "id": 37,
+        "name": "Área Militar",
+        "schools": []
+    },
+    {
+        "id": 38,
+        "name": "Atlântida",
+        "schools": []
+    },
+    {
+        "id": 39,
+        "name": "Olhos D'água",
+        "schools": []
+    },
+    {
+        "id": 40,
+        "name": "Piola",
+        "schools": []
+    },
+    {
+        "id": 41,
+        "name": "Gamino",
+        "schools": []
+    },
+    {
+        "id": 42,
+        "name": "Renascer",
+        "schools": []
+    },
+    {
+        "id": 43,
+        "name": "Alberto Grande",
+        "schools": []
+    },
+    {
+        "id": 44,
+        "name": "Independência",
+        "schools": []
+    },
+    {
+        "id": 45,
+        "name": "São João",
+        "schools": []
+    },
+    {
+        "id": 46,
+        "name": "Porto dos Aguateiros",
+        "schools": []
+    },
+    {
+        "id": 47,
+        "name": "José de Abreu",
+        "schools": []
+    },
+    {
+        "id": 48,
+        "name": "Anita Garibaldi",
+        "schools": []
+    },
+    {
+        "id": 49,
+        "name": "Fronteira Oeste",
+        "schools": []
+    },
+    {
+        "id": 50,
+        "name": "Novo Lar",
+        "schools": [
+            {
+                "name": "ESC EST ENS MED JOSE BONIFACIO",
+                "address": "R JOAO PESSOA 105 PREDIO, 105 PREDIO. NOVO LAR. 97545-310 Alegrete - RS.",
+                "district": "Novo Lar",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 20,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Portuguese",
+                        "capacity": 15,
+                        "id": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Lara",
+        "schools": []
+    },
+    {
+        "id": 52,
+        "name": "Vila Fenix",
+        "schools": []
+    },
+    {
+        "id": 53,
+        "name": "Inez",
+        "schools": []
+    },
+    {
+        "id": 54,
+        "name": "Kennedy",
+        "schools": []
+    },
+    {
+        "id": 55,
+        "name": "Jardim Planalto",
+        "schools": []
+    },
+    {
+        "id": 56,
+        "name": "Pedreiras",
+        "schools": []
+    },
+    {
+        "id": 57,
+        "name": "Emílio Zuneda",
+        "schools": []
+    },
+    {
+        "id": 58,
+        "name": "Canjiqueira",
+        "schools": []
+    },
+    {
+        "id": 59,
+        "name": "Cel. Enio",
+        "schools": []
+    },
+    {
+        "id": 60,
+        "name": "Saudade",
+        "schools": []
+    },
+    {
+        "id": 61,
+        "name": "Liberdade",
+        "schools": []
+    },
+    {
+        "id": 62,
+        "name": "Prado",
+        "schools": []
+    },
+    {
+        "id": 63,
+        "name": "Progresso",
+        "schools": [
+            {
+                "name": "ESC EST ENS FUN ECILDA ALVES PAIM",
+                "address": "R TUPI 36, 36 VILA PRADO. 97543-630 Alegrete - RS.",
+                "district": "Progresso",
+                "id": 0,
+                "rooms": [
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 30,
+                        "id": 0
+                    },
+                    {
+                        "type_of_test": "Mathematics",
+                        "capacity": 25,
+                        "id": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Vila Grande",
+        "schools": []
+    }
+]
