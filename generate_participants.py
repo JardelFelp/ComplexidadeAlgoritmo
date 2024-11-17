@@ -36,7 +36,6 @@ def generate_participants(rooms, districts):
             participants.append({
                 "id": len(participants),
                 "district_id": district["id"],
-                "district": district["name"],
                 "name": fake.name(),
                 "type_of_test": room["type_of_test"]
             })

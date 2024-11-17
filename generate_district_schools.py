@@ -63,9 +63,11 @@ def create_schools_json():
 
         for j in range(len(schools)):
             if schools[j]['district'] == districts[i]:
-                schools[j]['id'] = schools_count
-                schools[j]['rooms'] = generate_rooms()
-                temporary_result['schools'].append(schools[j])
+                temporary_result['schools'].append({
+                    "id": schools_count,
+                    "name": schools[j]['name'],
+                    "rooms": generate_rooms(),
+                })
 
                 schools_count += 1
 
@@ -73,3 +75,6 @@ def create_schools_json():
 
     with open("bairros-escolas.json", "w") as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=4)
+
+
+create_schools_json()
